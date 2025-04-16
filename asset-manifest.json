@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-aalsan-jaas/List-Maker/static/css/main.c372f6f5.css",
+    "main.js": "/r-aalsan-jaas/List-Maker/static/js/main.88627723.js",
+    "index.html": "/r-aalsan-jaas/List-Maker/index.html",
+    "main.c372f6f5.css.map": "/r-aalsan-jaas/List-Maker/static/css/main.c372f6f5.css.map",
+    "main.88627723.js.map": "/r-aalsan-jaas/List-Maker/static/js/main.88627723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c372f6f5.css",
+    "static/js/main.88627723.js"
+  ]
+}
